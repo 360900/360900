@@ -21,5 +21,5 @@ I'm curious, passionate and analytical.
 - Gaming and modding games
 - Reading (books online), researching (for fun) and writing
 - Volunteering
-- Philosophy (mainly Ontology)
+- Philosophy (mainly ontology and epistemology)
 - ...and more
