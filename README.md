@@ -14,12 +14,11 @@ I'm curious, passionate and analytical.
 
 ### Hobbies
 
-- Software development
-- Media: video editing, photo editing, music production
-- Tinkering with hardware and software
-- Self-hosting
-- Gaming and modding games
-- Reading (books online), researching (for fun) and writing
 - Volunteering
+- Software development
+- Gaming and modding games
+- Tinkering with hardware and software
 - Philosophy (mainly ontology and epistemology)
+- Media: video editing, photo editing, music production
+- Reading (books online), researching (for fun) and writing
 - ...and more
