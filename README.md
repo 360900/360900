@@ -1,8 +1,8 @@
-# Hi, I'm Tarik Z. Koca
+# Hi, I'm Tarik
 
 I develop software useful for me and others, produce music I find aesthetic and study mathematics. I'm into some branches of natural science.
 
-By principle, I stick to and promote **Free and Open Source Software**. What's more, I inform people around me of liberated software as much as I can. I'm trying to improve the **GNU/Linux** ecosystem.
+By principle, I stick to and promote **Free and Open Source Software**. What's more, I inform people around me of liberated software as much as I can. My current focus is to improve the **GNU/Linux** ecosystem.
 
 ### Hobbies
 
