@@ -27,7 +27,7 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 
 - [oneBetter](https://github.com/360900/oneBetter) - Linux alternatives for Windows apps, suggested in your browser 
 
-- oneSwitch - An automated Windows to Linux migration utility. Handles hardware compatibility diagnostics, application translation and user data staging. 
+- [oneSwitch](https://github.com/360900/oneSwitch) - An automated Windows to Linux migration utility. Handles hardware compatibility diagnostics, application translation and user data staging. 
 
 - [Xrizer Edge](https://github.com/360900/xrizer-edge) - An XRizer for OpenVR games and applications
 
