@@ -9,10 +9,10 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 - Volunteering
 - Software development
 - Gaming and modding games
+- Reading, researching and writing
 - Tinkering with hardware and software
 - Philosophy (mainly ontology and epistemology)
 - Media: video editing, photo editing, music production
-- Reading (books online), researching (for fun) and writing
 - ...and more
 
 ### My Projects
