@@ -17,7 +17,7 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 
 ### My Projects
 
-- [TinkerGame](https://github.com/360900/tinkergame) - Linux game modding and configuration toolkit for Steam
+- [TinkerGame](https://github.com/360900/tinkergame) - Linux game modding and configuration toolkit for Steam. Continuation of abandoned SteamTinkerLaunch
 
 - [Linux Hello](https://github.com/360900/linux-hello) - Effortless face authentication for Linux: Windows Hello alternative with KDE integration.
 
