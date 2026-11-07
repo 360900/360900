@@ -29,7 +29,7 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 
 - [oneSwitch](https://github.com/360900/oneSwitch) - An automated Windows to Linux migration utility. Handles hardware compatibility diagnostics, application translation and user data staging. 
 
-- [Xrizer Edge](https://github.com/360900/xrizer-edge) - An XRizer for OpenVR games and applications
+- [XRizer Edge](https://github.com/360900/xrizer-edge) - An XRizer for OpenVR games and applications
 
 - [Affinity Linux](https://github.com/360900/Affinity-Linux) - Effortless Affinity v3 installer for Linux. One-click, automatic and seamless launcher for Affinity by Canva. 
 
