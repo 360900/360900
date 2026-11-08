@@ -21,7 +21,7 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 
 - [Linux Hello](https://github.com/360900/linux-hello) - Effortless face authentication for Linux: Windows Hello alternative with KDE integration.
 
-- [oneVR](https://github.com/360900/oneVR) - A complete, effortless Linux PCVR solution for standalone headsets. Alternative to Virtual Desktop, WiVRn + WayVR + Xrizer, ALVR and Steam Link. oneVR works better than all of them.
+- [oneVR](https://github.com/360900/oneVR) - A complete, effortless Linux PCVR solution for standalone headsets. Alternative to these: Virtual Desktop, WiVRn + WayVR + Xrizer, ALVR and Steam Link.
 
 - [oneDesign](https://github.com/360900/oneDesign) - A calm, accent-driven design language for Linux with glass for floating chrome and concentric geometry.
 
