@@ -36,3 +36,5 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 - [Troubleshooter](https://github.com/360900/Troubleshooter) - Finds and fixes known Linux problems automagically.
 
 - [Zapret2 GUI](https://github.com/360900/zapret2-gui) - One-click DPI bypass for Linux, powered by zapret2. Zero-effort anti-censorship tool.
+
+Note: I use open-weight LLMs responsibly.
