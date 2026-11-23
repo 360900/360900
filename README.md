@@ -31,7 +31,9 @@ By principle, I stick to and promote **Free and Open Source Software**. What's m
 
 - [XRizer Edge](https://github.com/360900/xrizer-edge) - An XRizer for OpenVR games and applications
 
-- [Affinity Linux](https://github.com/360900/Affinity-Linux) - Effortless Affinity v3 installer for Linux. One-click, automatic and seamless launcher for Affinity by Canva. 
+- [Affinity Linux](https://github.com/360900/Affinity-Linux) - Effortless Affinity v3 installer for Linux. One-click, automatic and seamless launcher for Affinity by Canva.
+
+- [FL Studio Linux](https://github.com/360900/FL-Studio-Linux) - Effortless FL Studio installer for Linux. One-click, automatic and seamless launcher.
 
 - [Troubleshooter](https://github.com/360900/Troubleshooter) - Finds and fixes known Linux problems automagically.
 
