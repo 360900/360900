@@ -86,4 +86,4 @@ An XRizer for OpenVR games and applications.
 </tr>
 </table>
 
-Note: I use LLMs responsibly.
+Note: I use LLMs responsibly and professionally.
